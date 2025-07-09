@@ -264,7 +264,7 @@ def test_agent_with_examples():
 
 if __name__ == "__main__":
     print("Starting LangGraph Agent with Mistral via Ollama")
-   
+    print("=" * 50)
     
     app = create_agent_graph()
     

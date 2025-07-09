@@ -1,0 +1,4 @@
+flask==2.3.3
+langchain-community==0.0.38
+langgraph==0.1.14
+typing-extensions==4.8.0
